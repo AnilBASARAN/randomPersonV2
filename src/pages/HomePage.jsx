@@ -10,7 +10,7 @@ const HomePage = () => {
     getRandomUsers();
   }, [getRandomUsers]);
 
-console.log("randomP:",randomUsers)
+
   return (
     <>
       {isRandomUsersLoading ? (
