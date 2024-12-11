@@ -27,7 +27,7 @@ const HomePage = () => {
          <div className="mt-12">
          <button
           onClick={getRandomUsers}
-           className="p-2 m-1 bg-emerald-400 text-2xl shadow-transparent rounded-sm hover:bg-emerald-300">Fetch Random Person</button>
+           className="p-2 m-1 bg-emerald-400 text-2xl shadow-transparent rounded-sm hover:bg-emerald-300">Fetch Random People</button>
          </div>
           </div>
           </div>
